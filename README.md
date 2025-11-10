@@ -4,7 +4,7 @@
 Completed a simulated Data Analytics project via Forage, gaining exposure to real-world data analysis tasks and business insight generation.
 
 ## Certificate
-The certificate of completion is included in this repository: [io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_G98dvqjcbrG4KjdYz_1741955873450_completion_certificate)
+The certificate of completion is included in this repository: [View Certificate](io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_G98dvqjcbrG4KjdYz_1741955873450_completion_certificate.pdf)
 
 ## Key Learnings
 - Understanding datasets and performing basic analysis
@@ -14,4 +14,4 @@ The certificate of completion is included in this repository: [io9DzWKe3PTsiS6GG
 ## Project Structure
 - `data/` → contains sample dataset used in the simulation
 - `scripts/` → placeholder Python script (`analysis.py`) demonstrating coding ability
-- `outputs/` → placeholder chart (`chart.png`) for
+- `outputs/` → placeholder chart (`chart.png`) for visual results
