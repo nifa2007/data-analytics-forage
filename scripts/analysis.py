@@ -1,6 +1,6 @@
 # Analysis script for Forage Data Analytics simulation
-# Author: [Your Name]
-# Date: [Today’s Date]
+# Author: Nifemi Adegboyega
+# Date: 10/11/2025
 
 # Import libraries
 import pandas as pd
